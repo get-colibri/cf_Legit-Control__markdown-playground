@@ -1,6 +1,6 @@
 # Markdown Syntax
 
-## Badges withouth fill character
+## Badges withoasdauth fill character
 
 [⁠⁠](https://github.com/jwt/ruby-jwt/actions)
 
