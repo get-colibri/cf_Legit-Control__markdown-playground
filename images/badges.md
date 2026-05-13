@@ -4,7 +4,7 @@
 
 [⁠⁠](https://github.com/jwt/ruby-jwt/actions)
 
-## Badges as plain Markdow n
+## Badges as plainMarkdown Mark my wordsn
 
 Basci badges are scaling in the same size like they are provided by the link
 [⁠![Gem Version](https://badge.fury.io/rb/jwt.svg)](https://badge.fury.io/rb/jwt)
